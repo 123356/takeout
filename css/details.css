@@ -11,7 +11,7 @@ body{
 	background: #F4F4F4;
 }
 #details_header{
-	width: 100vw;
+	width: 10.11rem;
 	height: 1.45rem;
 	background: rgba(255,255,255,0.2);
 	position: fixed;
@@ -47,31 +47,35 @@ body{
 }
 #details_pic img{
 	width: 100%;
+	height: 100%;
+	display: block;
 }
 #details_speak{
+	width: 100vw;
 	background: #fff;
-	overflow: hidden;
+	/* overflow: hidden; */
 	padding-bottom: 0.3rem;
+	height: 2.0rem;
 }
 #details_speak>p:first-child{
 	font-size: 0.45rem;
 	margin-left: 0.4rem;
 }
-#details_speak>p:first-child span:last-child{
+/* #details_speak>p:first-child span:last-child{
 	float: right;
 	margin-right: 0.3rem;
 	font-family: iconfont;
 	font-size: 0.55rem;
-}
+} */
 #details_speak>p:first-child span:last-child i{
 	font-size: 0.45rem;
 	margin-left: 0.2rem;
 }
-#details_speak>p:nth-child(2){
+#details_speak>p:nth-child(1){
 	margin-left: 0.4rem;
 	font-size: 0.36rem;
 }
-#details_speak>p:nth-child(3) span:first-child{
+#details_speak>p:nth-child(2) span:first-child{
 	font-size: 0.63rem;
 	margin-left: 0.4rem;
 	font-weight: 700;
@@ -79,7 +83,7 @@ body{
 	float: left;
 	display: block;
 }
-#details_speak>p:nth-child(3) span:last-child{
+#details_speak>p:nth-child(2) span:last-child{
 	float: right;
 	margin-right: 0.3rem;
 	width: 3.4rem;
@@ -92,34 +96,39 @@ body{
 	float: right;
 	border-radius: 0.9rem;
 }
-#details_speak>p:nth-child(3){
+#details_speak>p:nth-child(2){
 	margin-top: 0.2rem;
 }
 #reviews{
 	width: 100vw;
+	height: auto;
 	background: #fff;
-	padding: 0.55rem 0 0 0.4rem;
+	/* padding: 0.55rem 0 0 0.4rem; */
 	margin-top: 0.3rem;
+	
 }
 #reviews>p{
 	font-size: 0.4rem;
+	padding-top: 0.3rem;
 	padding-bottom: 0.35rem;
+	margin-left: 0.5rem;
 }
 #reviews>p span:nth-child(2){
 	font-size: 0.32rem	;
 }
-#reviews>p span:nth-child(3){
+#reviews>p span:nth-child(2){
 	font-size: 0.4rem	;
 	float: right;
 	font-family: iconfont;
 	margin-right: 0.3rem;
 }
 #reviews li{
-	width: 100vw;
+	width: 10.3rem;
 	border-top:0.01rem solid #ccc;
 	padding-top: 0.4rem;
 	padding-bottom: 0.6rem;
 	overflow: hidden;
+	margin-left: 0.5rem;
 }
 .reviews_head{
 	width: 1.25rem;
