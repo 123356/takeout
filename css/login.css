@@ -1,0 +1,143 @@
+.divideOne{
+	height: 2.07rem;
+	width: 100vw;
+	background-color: #FFD161;
+	
+}
+.divideOneL{
+	margin-top: 0.8rem;
+	float: left;
+	margin-right: 1rem;
+	font-size: 0.6rem;
+	margin-left: 0.3rem;
+
+}
+.divideOneM{
+	margin-top: 1rem;
+	float: left;
+	font-size: 0.4rem;
+	
+}
+.divideOneR{
+	margin-top: 1rem;
+	float: right;
+	font-size: 0.4rem;
+	color: #b0b0b0;
+	margin-right: 0.4rem;
+}
+.loginText{
+	width: 9.00rem;
+	height: 5.40rem;
+	margin: 1.2rem auto;
+}
+.loginTextOne{
+	height: 33.33%;
+	border-bottom: 0.01rem solid #b0b0b0;
+}
+
+.loginTextOne p{
+float: left;
+display: block;
+font-size: 0.4rem;
+margin-left: 0.4rem;
+margin-top: 0.6rem;
+}
+.loginTextOne span{
+	float: right;
+display: block;
+font-size: 0.4rem;
+margin-left: 0.4rem;
+margin-top: 0.6rem;
+
+}
+.loginTextOne i{
+	float: left;
+display: block;
+font-size: 0.4rem;
+margin-left: 0.4rem;
+margin-top: 0.6rem;
+
+
+}
+
+.loginTextOne input{
+	height: 1.2rem;
+	width: 100%;
+	border: 0.05rem;
+	background-color: #CCCCCC;
+	color: white;
+	font-size: 0.4rem;
+	text-align: center;
+	line-height: 1.8rem;
+}
+.loginW{
+	width: 100vw;
+	height: 1.86rem;
+	text-align: center;
+	line-height: 1.86rem;
+	color: #ff6700;
+	font-size: 0.4rem;
+
+}
+.registe{
+	width: 100vw;
+	height: 1.52rem;
+	margin: 0.3rem 0;
+	background-color: #fff;
+	font-size: 0.4rem;
+}
+.regist{
+	width: 100vw;
+	height: 1.52rem;
+	margin: 0.3rem 0;
+	background-color: #fff;
+	font-size: 0.4rem;
+	text-align: center;
+	line-height: 1.52rem;
+	border-top: 0.01rem solid #b0b0b0;
+}
+.registe p{
+	float: left;
+	display: block;
+	font-size: 0.4rem;
+	width: 33.33%;
+	margin-top: 0.5rem;
+	text-align: center;
+
+}
+body{
+	background-color: #f2f2f2;
+}
+.agree{
+width: 10.40rem;
+padding: 0.2rem 0.2rem;
+}
+.circle{
+	width: 0.5rem;
+	height: 0.5rem;
+	border-radius: 0.25rem;
+	border: 0.02rem solid #b0b0b0;
+	float: left;
+	margin-right: 0.3rem;
+}
+.agree p{
+	display: block;
+	font-size: 0.4rem;
+	float: left;
+}
+.REnd{
+	height: 1.5rem;
+	width: 100vw;
+	margin-top: 1rem;
+
+}
+.REnd input{
+	width: 10rem;
+	height: 1.38rem;
+	background-color: #ccc;
+	color: white;
+	text-align: center;
+	line-height: 1.38rem;
+	margin-left: 0.4rem;
+
+}
